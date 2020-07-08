@@ -1,4 +1,4 @@
-#meteor-scoop-bucket
+# meteor-scoop-bucket
 
 This is a scoop bucket for the meteor installation.
 
