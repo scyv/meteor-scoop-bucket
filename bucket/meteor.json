@@ -1,0 +1,7 @@
+{
+    "version": "1.10.2",
+    "url": "https://packages.meteor.com/bootstrap-link?arch=os.windows.x86_64",
+    "extract_dir": ".meteor",
+    "bin": "meteor.bat",
+    "homepage": "https://meteor.com"
+}
