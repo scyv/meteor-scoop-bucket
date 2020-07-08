@@ -1,6 +1,6 @@
 # meteor-scoop-bucket
 
-This is a scoop bucket for the meteor installation.
+This is a scoop (https://scoop.sh) bucket for the meteor installation.
 
 Use it as follows:
 
