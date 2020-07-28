@@ -2,6 +2,10 @@
 
 This is a scoop (https://scoop.sh) bucket for the installation of meteor (https://meteor.com).
 
+
+# !! DO NOT USE UNTIL ISSUE #1 HAS BEEN SOLVED !!
+
+
 Use it as follows:
 
 1. Add the bucket
